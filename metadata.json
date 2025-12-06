@@ -1,7 +1,0 @@
-{
-  "name": "Gesture Particle Playground",
-  "description": "A real-time interactive 3D particle system controlled by hand gestures.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
